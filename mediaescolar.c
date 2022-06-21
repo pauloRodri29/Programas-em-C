@@ -2,7 +2,7 @@
 #include <stdio.h>
 //média de uma nota, método simples
 int main(){
-    float n1,n2,n3,media;//variaveis para a nota 1,2 e 3 e a "media" para armazenar a media do aluno
+    float n1,n2,n3,media;//variaveis para a nota 1,2 e 3 e a "media" para armazenar a media do aluno ou pode criar um for para preencher as notas em um vetor
     printf("Insira a primeira nota: ");
     scanf("%f",&n1);
     printf("Insira a segunda nota: ");
